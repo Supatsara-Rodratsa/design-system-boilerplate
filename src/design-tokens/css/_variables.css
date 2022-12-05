@@ -1,51 +1,74 @@
 /**
  * Do not edit directly
- * Generated on Sun, 04 Dec 2022 02:44:14 GMT
+ * Generated on Mon, 05 Dec 2022 16:35:10 GMT
  */
 
 :root {
-  --hs-spacing-large: [object Object];
-  --hs-spacing-small: [object Object];
-  --hs-color-primary: #8f00ff;
-  --hs-color-error: #ff0000;
-  --hs-color-success: #00b53d;
-  --hs-color-warning: #9cc300;
-  --hs-color-body: #e3e3e3;
-  --hs-color-inverse-body: #f2f2f2;
+  --hs-borders-dashed-outside: [object Object];
+  --hs-color-primary: #646cff;
+  --hs-color-secondary: #5a91e4;
+  --hs-color-dark-blue: #788bde;
+  --hs-color-purple: #8f84d6;
+  --hs-color-purple-2: #a27ecb;
+  --hs-color-pink: #b178bf;
   --hs-font-heading-1: [object Object];
   --hs-font-heading-2: [object Object];
+  --hs-font-heading-3: [object Object];
   --hs-font-body: [object Object];
-  --hs-typography-heading-1-font-size: 32;
+  --hs-font-paragraph: [object Object];
+  --hs-typography-heading-1-font-size: 36;
   --hs-typography-heading-1-text-decoration: none;
   --hs-typography-heading-1-font-family: Inter;
   --hs-typography-heading-1-font-weight: 400;
   --hs-typography-heading-1-font-style: normal;
   --hs-typography-heading-1-font-stretch: normal;
   --hs-typography-heading-1-letter-spacing: 0;
-  --hs-typography-heading-1-line-height: 38.4;
+  --hs-typography-heading-1-line-height: 43.2;
   --hs-typography-heading-1-paragraph-indent: 0;
   --hs-typography-heading-1-paragraph-spacing: 0;
   --hs-typography-heading-1-text-case: none;
-  --hs-typography-heading-2-font-size: 24;
+  --hs-typography-heading-2-font-size: 30;
   --hs-typography-heading-2-text-decoration: none;
   --hs-typography-heading-2-font-family: Inter;
   --hs-typography-heading-2-font-weight: 400;
   --hs-typography-heading-2-font-style: normal;
   --hs-typography-heading-2-font-stretch: normal;
   --hs-typography-heading-2-letter-spacing: 0;
-  --hs-typography-heading-2-line-height: 28.8;
+  --hs-typography-heading-2-line-height: 36;
   --hs-typography-heading-2-paragraph-indent: 0;
   --hs-typography-heading-2-paragraph-spacing: 0;
   --hs-typography-heading-2-text-case: none;
-  --hs-typography-body-font-size: 16;
+  --hs-typography-heading-3-font-size: 24;
+  --hs-typography-heading-3-text-decoration: none;
+  --hs-typography-heading-3-font-family: Inter;
+  --hs-typography-heading-3-font-weight: 400;
+  --hs-typography-heading-3-font-style: normal;
+  --hs-typography-heading-3-font-stretch: normal;
+  --hs-typography-heading-3-letter-spacing: 0;
+  --hs-typography-heading-3-line-height: 28.8;
+  --hs-typography-heading-3-paragraph-indent: 0;
+  --hs-typography-heading-3-paragraph-spacing: 0;
+  --hs-typography-heading-3-text-case: none;
+  --hs-typography-body-font-size: 18;
   --hs-typography-body-text-decoration: none;
   --hs-typography-body-font-family: Inter;
   --hs-typography-body-font-weight: 400;
   --hs-typography-body-font-style: normal;
   --hs-typography-body-font-stretch: normal;
   --hs-typography-body-letter-spacing: 0;
-  --hs-typography-body-line-height: 19.2;
+  --hs-typography-body-line-height: 21.6;
   --hs-typography-body-paragraph-indent: 0;
   --hs-typography-body-paragraph-spacing: 0;
   --hs-typography-body-text-case: none;
+  --hs-typography-paragraph-font-size: 12;
+  --hs-typography-paragraph-text-decoration: none;
+  --hs-typography-paragraph-font-family: Inter;
+  --hs-typography-paragraph-font-weight: 400;
+  --hs-typography-paragraph-font-style: normal;
+  --hs-typography-paragraph-font-stretch: normal;
+  --hs-typography-paragraph-letter-spacing: 0;
+  --hs-typography-paragraph-line-height: 14.4;
+  --hs-typography-paragraph-paragraph-indent: 0;
+  --hs-typography-paragraph-paragraph-spacing: 0;
+  --hs-typography-paragraph-text-case: none;
 }
